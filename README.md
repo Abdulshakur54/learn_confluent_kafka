@@ -1,4 +1,4 @@
-## This Repository stores the files I used in learning Apache Kafka by taking the course [Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/)
+## This Repository stores the files I used in learning Apache Kafka by taking the course [Kafka 101](https://developer.confluent.io/courses/apache-kafka/events/) From [Confluent Cloud](https://developer.confluent.io/courses/apache-kafka/events/)
 it is a hands-on course where I learnt and practice the following concepts using both the CLI and Python Scripts
 1. Kafka Topics, Events and Messages
 2. Producers [see my script](sales_producer.py)
