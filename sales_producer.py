@@ -7,7 +7,7 @@ if __name__ == '__main__':
     customers = ['Abdulshakur', 'Bola', 'Jimoh', 'Suleman', 'Paul', 'Jimmy', 'Sola', 'Musa', 'Kate']
     products = ['Bag', 'Wrist Watch', 'Mobile Phone', 'T Shirt', 'Battery', 'Laptop', 'Cup', 'Plates', 'Shoes', 'Calculator']
     quantities = [1, 2, 3, 4, 5, 6, 7]
-
+    # the credentials below are left as sample. Don't mind using it because they have already been deleted from my clusters
     config = {
         # User-specific properties that you must set
         'bootstrap.servers': 'pkc-12576z.us-west2.gcp.confluent.cloud:9092',
