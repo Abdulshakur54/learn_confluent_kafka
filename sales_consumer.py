@@ -3,6 +3,7 @@ from confluent_kafka import Consumer
 
 if __name__ == '__main__':
     topics = ['purchases', "poem", "poem_1", "poem_4"]
+    # the credentials below are left as sample. Don't mind using it because they have already been deleted from my clusters
     config = {
         # User-specific properties that you must set
         'bootstrap.servers': 'pkc-12576z.us-west2.gcp.confluent.cloud:9092',
